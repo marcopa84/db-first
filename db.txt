@@ -1,0 +1,48 @@
+CAMPO			PROPRIETA'	ATTRIBUTI
+
+ID 			MEDIUMINT	PRIMARY_KEY
+Marca 			VARCHAR(40)	NOTNULL
+Modello 		VARCHAR(40)	NOTNULL
+Allestimento 		VARCHAR		DEFAULT(nd)
+Data Immatricolazione 	DATE		DEFAULT(1970/01/01)
+Prezzo Acquisto 	FLOAT(8,2)	NOTNULL
+Prezzo Vendita 		FLOAT(8,2)	NOTNULL
+Data Acquisizione 	DATE		DEFAULT(1970/01/01)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
